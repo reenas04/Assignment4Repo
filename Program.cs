@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace Assignment4Devops
+namespace Assignment4DevopsExample
 {
     public class Program
     {

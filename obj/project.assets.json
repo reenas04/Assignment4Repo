@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ReenaS\\Assignment4Devops\\Assignment4Devops.csproj",
-      "projectName": "Assignment4Devops",
-      "projectPath": "C:\\Users\\ReenaS\\Assignment4Devops\\Assignment4Devops.csproj",
+      "projectUniqueName": "C:\\Users\\ReenaS\\Assignment4DevopsExample\\Assignment4DevopsExample.csproj",
+      "projectName": "Assignment4DevopsExample",
+      "projectPath": "C:\\Users\\ReenaS\\Assignment4DevopsExample\\Assignment4DevopsExample.csproj",
       "packagesPath": "C:\\Users\\ReenaS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ReenaS\\Assignment4Devops\\obj\\",
+      "outputPath": "C:\\Users\\ReenaS\\Assignment4DevopsExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ReenaS\\AppData\\Roaming\\NuGet\\NuGet.Config"
